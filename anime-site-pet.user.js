@@ -9,7 +9,7 @@
 // @noframes
 // @grant        GM_getValue
 // @grant        GM_setValue
-// @homepageURL  https://github.com/BigFluffyCatOnWatermelon/anime-site-pet/tree/anime-site-pet/anime-site-pet
+// @homepageURL  https://github.com/BigFluffyCatOnWatermelon/anime-site-pet
 // @supportURL   https://github.com/BigFluffyCatOnWatermelon/anime-site-pet/issues
 // @updateURL    https://raw.githubusercontent.com/BigFluffyCatOnWatermelon/anime-site-pet/main/anime-site-pet.user.js
 // @downloadURL  https://raw.githubusercontent.com/BigFluffyCatOnWatermelon/anime-site-pet/main/anime-site-pet.user.js
